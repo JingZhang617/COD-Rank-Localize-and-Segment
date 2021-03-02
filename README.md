@@ -1,4 +1,4 @@
-# COD-Rank-Localize-ans-Segment (CVPR2021)
+# COD-Rank-Localize-and-Segment (CVPR2021)
 Simultaneously Localize, Segment and Rank the Camouflaged Objects
 ![alt text](./ranking_overview.png)
 ![alt text](./joint_fix_camo_overview.png)
