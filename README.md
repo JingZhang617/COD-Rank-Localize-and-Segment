@@ -7,7 +7,7 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 Code will be released very soon.
 
 # New dataset: NC4K
-Please download our newly collected camouflaged object detection dataset (for testing) in the link below (with image, ground truth map, and instance level annotation):
+Please download our newly collected camouflaged object detection testing dataset, namely NC4K, in the link below (with image, ground truth map, and instance level annotation):
 https://drive.google.com/file/d/1N8bCdeSIfOTIn14vlSQcHy_ggr3Pr049/view?usp=sharing
 
 # Our Bib:
