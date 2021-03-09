@@ -16,7 +16,7 @@ Please cite our paper if necessary:
 ```
 @inproceedings{yunqiu_cod21,
   title={Simultaneously Localize, Segment and Rank the Camouflaged Objects},
-  author={Lv, Yunqiu and Zhang, Jing and Dai, Yuchao and Li, Aixuan and Liu, Bowen and Barnes, Nick and Fan, Deng-Ping},
+  author={Lyu, Yunqiu and Zhang, Jing and Dai, Yuchao and Li, Aixuan and Liu, Bowen and Barnes, Nick and Fan, Deng-Ping},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year={2021}
 }
