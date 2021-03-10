@@ -5,6 +5,7 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 
 # Code
 1) code, trained model and results of training only with the COD task:
+
 https://drive.google.com/file/d/10uv__-_80GUGDkCb3alnlHpV3trjFtt_/view?usp=sharing
 
 Code will be released very soon.
