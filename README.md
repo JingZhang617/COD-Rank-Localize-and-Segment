@@ -11,10 +11,11 @@ https://drive.google.com/file/d/10uv__-_80GUGDkCb3alnlHpV3trjFtt_/view?usp=shari
 Code will be released very soon.
 
 # Benchmark results:
-Please download the benchmark results (camoudlage maps) for your convienience. All the benchmark methods are trained with the COD10K training dataset (of size 4040):
+1) Please download the benchmark results (camoudlage maps) for your convienience. All the benchmark methods are trained with the COD10K training dataset (of size 4040):
+
 https://drive.google.com/drive/folders/1sdly_TFW2WVqSm-hzuVXYKnu3DxkF-0F?usp=sharing
 
-Or the computed evaluation metrics:
+2) Or the computed evaluation metrics:
 
 https://drive.google.com/file/d/17SyikbvnNF6g0_2BteyplQLid2o0KZTc/view?usp=sharing
 
