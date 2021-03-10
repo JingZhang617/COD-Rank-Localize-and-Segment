@@ -4,7 +4,11 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 ![alt text](./joint_fix_camo_overview.png)
 
 # Code
+1) code, trained model and results of training only with the COD task:
+https://drive.google.com/file/d/10uv__-_80GUGDkCb3alnlHpV3trjFtt_/view?usp=sharing
+
 Code will be released very soon.
+
 
 # New dataset: NC4K
 Please download our newly collected camouflaged object detection testing dataset, namely NC4K, in the link below (with image, ground truth map, and instance level annotation):
