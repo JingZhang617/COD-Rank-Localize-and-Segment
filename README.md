@@ -8,7 +8,7 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 
 https://drive.google.com/file/d/10uv__-_80GUGDkCb3alnlHpV3trjFtt_/view?usp=sharing
 
-Code will be released very soon.
+Other code will be released very soon.
 
 # Benchmark results:
 1) Please download the benchmark results (camoudlage maps) for your convienience. All the benchmark methods are trained with the COD10K training dataset (of size 4040):
