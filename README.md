@@ -24,6 +24,9 @@ https://drive.google.com/file/d/17SyikbvnNF6g0_2BteyplQLid2o0KZTc/view?usp=shari
 Please download our newly collected camouflaged object detection testing dataset, namely NC4K, in the link below (with image, ground truth map, and instance level annotation):
 https://drive.google.com/file/d/1kzpX_U3gbgO9MuwZIWTuRVpiB7V6yrAQ/view?usp=sharing
 
+or please download it from BaiduNetDisk:
+链接:https://pan.baidu.com/s/1bG4F2KJ_4UJG_7XG6ZNBHA  密码:d581
+
 # Our Bib:
 
 Please cite our paper if necessary:
