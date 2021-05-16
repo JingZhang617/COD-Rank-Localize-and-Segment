@@ -3,6 +3,30 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 ![alt text](./ranking_overview.png)
 ![alt text](./joint_fix_camo_overview.png)
 
+# Camouflage Localization and Ranking dataset
+We labeled the COD10K training dataset with eye tracker to localize the camouflaged objects, and generate 2000 images with localization and ranking label (We are generating fixation and label for all the existing training and testing dataset, and will release the dataset very soon.). The training dataset is as:
+
+https://drive.google.com/file/d/12kSU6QrPAiumWpSkMqi5nPMo1awBW0_N/view?usp=sharing
+
+which include 2000 images, with the corresponding fixation label, ranking label and instance level labels.
+
+The testing dataset is as:
+
+https://drive.google.com/file/d/1Gz5GzL9eeW13aZjlzaisrJFGO-HmhLxS/view?usp=sharing
+
+which include 280 images with fixation, ranking and instance level labels.
+
+# Our Results
+
+We train our triple-task learning framework with the above 2000 image training dataset and show the results in Table 1 of the main paper. The resulted camouflage maps are as:
+
+https://drive.google.com/file/d/1ahu77JP-hzjgup20fNIftCB_cHanE323/view?usp=sharing
+
+We also train our camouflaged object detection task along with the original COD10K training dataset, and show the performance in Table 4. The resulted camouflage maps are as:
+
+https://drive.google.com/file/d/10sr2lX38FEgSXL3k27gidlaPKo5VQyjv/view?usp=sharing
+
+Note that, we re-train our models, and the resulted performance is slightly difference from our reported numbers.
 
 # Benchmark results:
 1) Please download the benchmark results (camoudlage maps) for your convienience. All the benchmark methods are trained with the COD10K training dataset (of size 4040):
