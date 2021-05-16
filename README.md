@@ -3,12 +3,6 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 ![alt text](./ranking_overview.png)
 ![alt text](./joint_fix_camo_overview.png)
 
-# Code
-1) code, trained model and results of training only with the COD task:
-
-https://drive.google.com/file/d/10uv__-_80GUGDkCb3alnlHpV3trjFtt_/view?usp=sharing
-
-Other code will be released very soon.
 
 # Benchmark results:
 1) Please download the benchmark results (camoudlage maps) for your convienience. All the benchmark methods are trained with the COD10K training dataset (of size 4040):
