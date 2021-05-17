@@ -3,7 +3,9 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 ![alt text](./ranking_overview.png)
 ![alt text](./joint_fix_camo_overview.png)
 
-# The full camouflage fixation training dataset is available with the full fixation maps for the COD10K training dataset, which can be downloaded from:
+# Full camouflage fixation training dataset is available!
+
+The full camouflage fixation training dataset is available with the full fixation maps for the COD10K training dataset, which can be downloaded from:
 https://drive.google.com/file/d/1ofwut8ff92L9LwuWA0U3eEhGG8mwK_nG/view?usp=sharing
 
 # Camouflage Localization and Ranking dataset
