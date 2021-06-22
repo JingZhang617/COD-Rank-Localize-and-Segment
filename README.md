@@ -6,7 +6,7 @@ Simultaneously Localize, Segment and Rank the Camouflaged Objects
 # Full camouflage fixation training dataset is available!
 
 The full camouflage fixation training dataset is available with the full fixation maps for the COD10K training dataset, which can be downloaded from:
-https://drive.google.com/file/d/1ofwut8ff92L9LwuWA0U3eEhGG8mwK_nG/view?usp=sharing
+https://drive.google.com/file/d/1inb5iNTDswFPDm4SpzBbVgZdI4puAv_3/view?usp=sharing
 
 # Camouflage Localization and Ranking dataset
 We labeled the COD10K training dataset with eye tracker to localize the camouflaged objects, and generate 2000 images with localization and ranking label (We are generating fixation and label for all the existing training and testing dataset, and will release the dataset very soon.). The training dataset is as:
